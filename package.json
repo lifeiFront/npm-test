@@ -10,17 +10,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gejiawen/npmrc-local.git"
+    "url": "https://github.com/lifeiFront/npm-test"
   },
   "keywords": [
     "npmrc"
   ],
-  "author": "gejiawen <806717031@qq.com> (http://blog.gejiawen.com/)",
+  "author": "lifeiFront",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gejiawen/npmrc-local/issues"
+    "url": "https://github.com/lifeiFront/npm-test/issues"
   },
-  "homepage": "https://github.com/gejiawen/npmrc-local#readme",
+  "homepage": "https://github.com/lifeiFront/npm-test",
   "dependencies": {
     "commander": "^2.9.0"
   }
