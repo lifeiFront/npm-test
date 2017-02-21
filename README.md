@@ -1,6 +1,8 @@
 # npm-test
 npm包发布练习
 
+http://www.tuicool.com/articles/I3yMB37
+
 ##使用说明
 1、注册npm账号。
 
